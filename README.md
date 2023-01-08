@@ -1,0 +1,1 @@
+# Smart-Home-with-Beetle-ESP32-C3-and-Wear-OS
